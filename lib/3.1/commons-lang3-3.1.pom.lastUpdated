@@ -1,0 +1,4 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Sun Feb 14 17:50:19 CST 2016
+f8a6147e80c1ac4f9ab6f6eb0a8028eabfedfb50@default-http\://211.138.195.130\:8888/nexus/content/groups/public/.lastUpdated=1455443419878
+http\://211.138.195.130\:8888/nexus/content/groups/public/.error=Could not transfer artifact org.apache.commons\:commons-lang3\:pom\:3.1 from/to nexus (http\://211.138.195.130\:8888/nexus/content/groups/public/)\: The operation was cancelled.
